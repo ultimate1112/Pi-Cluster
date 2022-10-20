@@ -22,3 +22,8 @@ Some interesting articles to setup the cluster.
 - https://blog.zachinachshon.com/k3s-installation/
 - https://sahansera.dev/building-your-own-private-kubernetes-cluster-on-a-raspberry-pi-4-with-k3s/
 - https://medium.com/swlh/yet-another-raspberry-pi-k8s-cluster-part-2-k3s-installation-fc93fb5313a1
+
+
+- https://hammondmason.wordpress.com/2020/10/27/pxe-booting-raspberry-pi-os-part-1-client-setup/
+> 2B V1.1 **requires SD Card**
+> 2B V1.2 just needs OTP change program_usb_boot_mode=1 to enable USB Host Boot Mode (ie. boot from USB / Ethernet **AFTER** SD card fails)
