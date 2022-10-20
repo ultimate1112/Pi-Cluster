@@ -26,4 +26,5 @@ Some interesting articles to setup the cluster.
 
 - https://hammondmason.wordpress.com/2020/10/27/pxe-booting-raspberry-pi-os-part-1-client-setup/
 > 2B V1.1 **requires SD Card**
+> 
 > 2B V1.2 just needs OTP change program_usb_boot_mode=1 to enable USB Host Boot Mode (ie. boot from USB / Ethernet **AFTER** SD card fails)
